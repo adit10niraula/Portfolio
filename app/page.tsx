@@ -14,6 +14,7 @@ export default function Home() {
         ]}/>
         <Hero/>
         <Grid/>
+        <RecentsProjects/>
 
         <h1>hello</h1>
       </div>
